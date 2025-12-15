@@ -23,7 +23,8 @@
 
         if (inputUserName == userName && inputPassword == password) { break 
             println("login successful")
-        } else {
+        }
+            else {
             println("failed to login")
         }
 
